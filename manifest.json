@@ -1,0 +1,6 @@
+{
+  "name": "Talk – Custom renderer",
+  "id": "780384541310374447",
+  "api": "1.0.0",
+  "main": "dist/index.js"
+}

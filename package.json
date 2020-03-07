@@ -1,0 +1,27 @@
+{
+  "name": "react-reconciler-talk",
+  "version": "1.0.0",
+  "author": "Yaroslav Losev <losevyaroslav@gmail.com>",
+  "babel": {
+    "presets": [
+      "@babel/env",
+      "@babel/react"
+    ]
+  },
+  "scripts": {
+    "start": "webpack --watch"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "@babel/preset-react": "^7.8.3",
+    "babel-loader": "^8.0.6",
+    "prettier": "^1.19.1",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-reconciler": "^0.25.0"
+  }
+}
