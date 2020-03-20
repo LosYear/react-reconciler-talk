@@ -5,6 +5,7 @@
 
 
 [Слайды](https://speakerdeck.com/losyear/react-reconciler-kak-napisat-sobstviennyi-riendierier)
+
 [Видео](https://youtu.be/3Yy_YUTZxe4?t=3120)
 
 Репозиторий содержит материалы доклада, исходный код демо и дополнительные материалы по теме.
